@@ -5,6 +5,7 @@
 <!---reponaam -->RepoNaam: BAP1617_KelvinVerhoeven
 <!---promotor -->Promotor: Maarten Luyts
 <!---phone -->Telefoon: 034725904
-<!---address -->Address: koningsstraat 11 2940 Antwerpen <!---end -->
+<!---address -->Address: koningsstraat 11 2940 Antwerpen 
+<!---company -->Bedrijf: Involved <!---end -->
 
 some other info
